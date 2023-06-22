@@ -1,4 +1,4 @@
-#About the product 
+# About the product 
 
 The application allows users to upload images and respond with objects that the service detected in the image.
 Users can interact with the application through a simple web UI or an interactive Telegram bot to obtain object detection results.
